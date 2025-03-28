@@ -33,5 +33,5 @@ async def saludo(ctx, *, mensaje: str):
         await ctx.send("No entendí tu saludo. 😕")  # Si no reconoce la palabra, responde con un mensaje neutral
         
     
-token = 'MTMyMTk5MTgzNjk5ODQzODkyMg.GTLPxf.BN4b82kX2bhDqtLIbRzOnVntz7gsdlgBwCg4Rg'
+token = 'Poner Token'
 bot.run(token)
